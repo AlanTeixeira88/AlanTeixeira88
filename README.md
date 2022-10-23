@@ -9,7 +9,7 @@
   Você também pode me contactar no <a href="mailto:alancarlosteixeira@gmail.com" target="_blank">Gmail</a>. 
 </p> 
  
-<h4> Já possuo conhecimento em: </h4>
+<h4> Possuo conhecimento em: </h4>
 
 <p align="left">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
